@@ -4,3 +4,5 @@ cherries
 dragon fruits
 figs
 bad fruit
+smelly fruit 
+
